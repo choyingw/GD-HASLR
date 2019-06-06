@@ -17,14 +17,14 @@ shrink.m: Soft-Shrinkage operator.
 
 If you find our work useful, please consider citing:
 
-  @article{wu2018occluded,
-  title={Occluded face recognition using low-rank regression with generalized gradient direction},
-  author={Wu, C. Y. and Ding, J. J.},
-  journal={Pattern Recognition},
-  volume={80},
-  pages={256--268},
-  year={2018},
-  publisher={Elsevier}
-}
+    @article{wu2018occluded,
+    title={Occluded face recognition using low-rank regression with generalized gradient direction},
+    author={Wu, C. Y. and Ding, J. J.},
+    journal={Pattern Recognition},
+    volume={80},
+    pages={256--268},
+    year={2018},
+    publisher={Elsevier}
+    }
 
 For any questions, please contact the author Cho Ying, Wu: choyingw@usc.edu
