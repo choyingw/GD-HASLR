@@ -3,7 +3,7 @@ This is the code for our Pattern Recognition 2018 paper
 
 
 ------------------------------------------------------
-This code is for C. Y. Wu and J. J. Ding, “Occluded face recognition using low-rank regression with generalized gradient direction," which is currently under the review of Pattern Recognition, Elsevier.
+This code is for Cho-Ying Wu, “Occluded face recognition using low-rank regression with generalized gradient direction,"
 
 including codes as follows: 
 
@@ -27,4 +27,4 @@ If you find our work useful, please consider citing:
     publisher={Elsevier}
     }
 
-For any questions, please contact the author Cho Ying, Wu: choyingw@usc.edu
+For any questions, please contact the author Cho-Ying, Wu: choyingw@usc.edu
