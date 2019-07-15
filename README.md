@@ -7,7 +7,7 @@ This code is for Cho-Ying Wu, “Occluded face recognition using low-rank regres
 
 including codes as follows: 
 
-main.m : Parameters are explained in the comment。
+main.m : Parameters are explained in the comment  
 FastSolver.m: For ADMM solver  
 FastLasso.m: Fast Lasso Solver  
 igo,igo2,igo3.m : For generalized gradient direction  
